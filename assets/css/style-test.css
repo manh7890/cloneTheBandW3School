@@ -1,0 +1,26 @@
+#slider {
+    margin-top: 46px;
+    padding-top: 50%;
+   
+    
+    left:0;
+    right:0;
+}
+.slide-img{
+    display: none;
+}
+#slider .text-content {
+    bottom: 48px;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    color: #fff;
+}
+#slider .text-heading{
+    margin-bottom: 10px;
+    font-weight: 500;
+} 
+#slider .text-description{
+    margin-top: 15px;
+    text-shadow: 0 0 1px rgba(0,0,0) ;
+}
